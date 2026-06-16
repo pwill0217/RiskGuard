@@ -1,0 +1,7 @@
+year,loan_limit,Gender,approv_in_adv,loan_type,loan_purpose,Credit_Worthiness,open_credit,business_or_commercial,loan_amount,term,Neg_ammortization,interest_only,lump_sum_payment,property_value,construction_type,occupancy_type,Secured_by,total_units,income,credit_type,Credit_Score,co-applicant_credit_type,age,submission_of_application,LTV,Region,Security_Type,dtir1
+2019,ncf,Female,nopre,type1,p1,l1,nopc,b/c,624099,360,not_neg,not_int,lpsm,685564,sb,sr,home,2U,6315,EQUI,672,EXP,45-54,to_inst,91.0,central,direct,47
+2019,ncf,Joint,nopre,type1,p2,l1,nopc,b/c,363331,240,neg_amm,not_int,not_lpsm,447093,sb,pr,home,1U,10310,CRIF,554,CIB,55-64,to_inst,81.3,south,direct,65
+2019,ncf,Male,pre,type1,p3,l1,nopc,nob/c,556751,240,not_neg,not_int,not_lpsm,604521,mh,pr,home,1U,4947,CRIF,706,CIB,25-34,not_inst,92.1,south,direct,24
+2019,cf,Joint,pre,type1,p2,l1,nopc,b/c,258159,240,not_neg,int_only,lpsm,447954,mh,pr,home,2U,8071,EXP,562,CIB,25-34,not_inst,57.6,central,direct,34
+2019,ncf,Male,nopre,type1,p1,l1,nopc,nob/c,214957,180,neg_amm,int_only,not_lpsm,447627,mh,pr,home,2U,3950,EQUI,750,CIB,45-54,to_inst,48.0,south,direct,48
+2019,ncf,Male,pre,type1,p2,l1,nopc,b/c,310631,240,not_neg,int_only,not_lpsm,393976,sb,sr,home,2U,11044,EXP,534,CIB,25-34,to_inst,78.8,central,direct,36
